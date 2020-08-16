@@ -1,4 +1,4 @@
-$name: Fic Generator
+$name : Fic Generator
 $fics
 https://archiveofourown.org/works/20146021
 https://archiveofourown.org/works/17133476
